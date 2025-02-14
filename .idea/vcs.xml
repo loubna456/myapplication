@@ -6,6 +6,8 @@
     <mapping directory="$PROJECT_DIR$/Donation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Gateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Org_MS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/config-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/configserver" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/userms" vcs="Git" />
   </component>
 </project>
